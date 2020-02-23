@@ -8,19 +8,10 @@
     </url>
 
     <url>
-        <loc>http://ZiDouZaTan.github.io/2020/02/23/comfort/</loc>
+        <loc>http://zidouzatan.github.io/categories/%25E7%2594%259F%25E6%25B4%25BB%25E6%2583%2585%25E6%2584%259F/</loc>
         <lastmod>2020-02-23T11:54:00.000Z</lastmod>
         <changefreq>weekly</changefreq>
-        <priority>0.6</priority>
-
-    </url>
-
-    <url>
-        <loc>http://ZiDouZaTan.github.io/2020/02/09/hello-world/</loc>
-        <lastmod>2020-02-09T01:53:25.588Z</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.6</priority>
-
+        <priority>0.2</priority>
     </url>
 
 </urlset>
