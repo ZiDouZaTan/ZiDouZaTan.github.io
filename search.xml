@@ -4,39 +4,6 @@
   
     
     <entry>
-      <title>newLog</title>
-      <link href="/2020/02/09/newLog/"/>
-      <url>/2020/02/09/newLog/</url>
-      
-        <content type="html"><![CDATA[]]></content>
-      
-      
-      <categories>
-          
-          <category> Hexo博客 </category>
-          
-      </categories>
-      
-      
-        <tags>
-            
-            <tag> Hexo </tag>
-            
-            <tag> Yelle </tag>
-            
-            <tag> yelog </tag>
-            
-            <tag> newlog </tag>
-            
-            <tag> 关于我 </tag>
-            
-        </tags>
-      
-    </entry>
-    
-    
-    
-    <entry>
       <title>Hello World</title>
       <link href="/2020/02/09/hello-world/"/>
       <url>/2020/02/09/hello-world/</url>
